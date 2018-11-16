@@ -44,5 +44,9 @@
         </form>
       </div>
     </nav>
+
+    <h1 class"display-4 text-center">Mon site de ouf</h1>
+
+    <p>voilà un paragraphe super paragraphe </p>
 </body>
 </html>
