@@ -42,6 +42,10 @@
         <form class="form-inline my-2 my-md-0">
           <input class="form-control" type="text" placeholder="Search" aria-label="Search">
         </form>
+
+        <p>
+            Voici un nouveau paragraphe de titre2. C'est vraiment super cool ce truc.
+        </p>
       </div>
     </nav>
 
